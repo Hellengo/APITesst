@@ -1,0 +1,18 @@
+_Store
+.settings
+
+# Files for the Dalvik VM
+*.dex
+
+*.log
+
+# Intelij project setting files.
+*.iml
+*.idea
+
+# OSX file view arrangement configuration file.
+*.DS_Store
+
+#excel
+~$TestCase.xlsx  
+~$TestCase1.xlsx
